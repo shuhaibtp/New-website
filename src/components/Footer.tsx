@@ -15,16 +15,16 @@ const Footer = () => {
               Helping businesses grow their online presence with strategic digital marketing solutions.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-blue-600 transition-colors">
+              <a href="https://www.instagram.com/shuhaib_digi_freelancer/" className="text-muted-foreground hover:text-blue-600 transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-blue-600 transition-colors">
+              <a href="https://x.com/ShuhaibIzaque" className="text-muted-foreground hover:text-blue-600 transition-colors">
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-blue-600 transition-colors">
+              <a href="https://www.linkedin.com/in/shuhaib-izaque-2940869a/" className="text-muted-foreground hover:text-blue-600 transition-colors">
                 <Linkedin className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-blue-600 transition-colors">
+              <a href="https://www.facebook.com/ShuhaibDigiFreelancer" className="text-muted-foreground hover:text-blue-600 transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
             </div>
